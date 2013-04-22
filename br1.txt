@@ -1,0 +1,26 @@
+ Volume in drive C is APEGUM
+ Volume Serial Number is 26CC-29B9
+
+ Directory of C:\gittest\manuel
+
+22/04/2013  16:49    <DIR>          .
+22/04/2013  16:49    <DIR>          ..
+22/04/2013  14:56               294 .classpath
+22/04/2013  16:49    <DIR>          .git
+22/04/2013  14:56                12 .gitignore
+22/04/2013  14:56               387 .project
+22/04/2013  14:56    <DIR>          bin
+22/04/2013  16:49                 0 br1.txt
+22/04/2013  16:44                89 branch3.txt
+22/04/2013  16:44               931 branch3a.txt
+22/04/2013  16:44               981 branch3b.txt
+22/04/2013  16:31               688 breeze1.txt
+22/04/2013  16:31               737 breeze2.txt
+22/04/2013  16:33               786 breeze3.txt
+22/04/2013  16:33               509 fawl.txt
+22/04/2013  16:42                89 master1.txt
+22/04/2013  16:31               835 pom.xml
+22/04/2013  14:50                11 README.md
+22/04/2013  14:50    <DIR>          src
+              14 File(s)          6,349 bytes
+               5 Dir(s)  29,867,659,264 bytes free
