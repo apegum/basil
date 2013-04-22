@@ -1,0 +1,14 @@
+ Volume in drive C is APEGUM
+ Volume Serial Number is 26CC-29B9
+
+ Directory of C:\gittest\fawlty2
+
+22/04/2013  16:16    <DIR>          .
+22/04/2013  16:16    <DIR>          ..
+22/04/2013  15:01                 6 .gitignore
+22/04/2013  16:16                 0 fawl.txt
+22/04/2013  15:01               813 pom.xml
+22/04/2013  15:01                11 README.md
+22/04/2013  15:01    <DIR>          src
+               4 File(s)            830 bytes
+               3 Dir(s)  30,117,482,496 bytes free
